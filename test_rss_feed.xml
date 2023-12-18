@@ -6,10 +6,10 @@
         <description>This is a test RSS feed created as an example.</description>
         <pubDate>Thu, 14 Dec 2023 15:16:42 </pubDate>
         <item>
-            <title>Test Item</title>
-            <link>http://example.com/test-item</link>
+            <title>Drittes Test Item</title>
+            <link>http://example.com/test-item/3</link>
             <description>This is a test item description.</description>
-            <pubDate>Thu, 14 Dec 2023 15:16:42 </pubDate>
+            <pubDate>Thu, 14 Dec 2023 15:16:43 </pubDate>
         </item>
     </channel>
 </rss>
