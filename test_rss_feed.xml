@@ -10,7 +10,7 @@
             <link>http://example.com/test-item/4</link>
             <description>This is a test item description.</description>
             <pubDate>Thu, 14 Dec 2023 15:16:44 GMT</pubDate>
-            <category>TV</category>
+            <source>TV</source>
             <author>Sat1</author>
         </item>
         <!-- Weitere Items -->
