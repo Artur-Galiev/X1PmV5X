@@ -4,14 +4,16 @@
         <title>Test RSS Feed</title>
         <link>http://example.com</link>
         <description>This is a test RSS feed created as an example.</description>
-        <pubDate>Thu, 14 Dec 2023 15:16:42 </pubDate>
+        <pubDate>Thu, 14 Dec 2023 15:16:42 GMT</pubDate>
         <item>
-            <url >http://example.com/test-item/4</url>
-            <published>Thu, 14 Dec 2023 15:16:44 </published>
             <title>Viertes Test Item</title>
-            <content>This is a test item description.</content>
+            <link>http://example.com/test-item/4</link>
+            <description>This is a test item description.</description>
+            <pubDate>Thu, 14 Dec 2023 15:16:44 GMT</pubDate>
             <source_type>TV</source_type>
             <extra_author_attributes.name>Sat1</extra_author_attributes.name>
         </item>
+        <!-- Weitere Items -->
     </channel>
 </rss>
+
