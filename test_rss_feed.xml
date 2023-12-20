@@ -10,8 +10,8 @@
             <link>http://example.com/test-item/4</link>
             <description>This is a test item description.</description>
             <pubDate>Thu, 14 Dec 2023 15:16:44 GMT</pubDate>
-            <source_type>TV</source_type>
-            <extra_author_attributes.name>Sat1</extra_author_attributes.name>
+            <category>TV</category>
+            <author>Sat1</author>
         </item>
         <!-- Weitere Items -->
     </channel>
