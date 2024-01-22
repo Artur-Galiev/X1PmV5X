@@ -13,5 +13,21 @@
 <category>This is a second Test</category>
 <pubDate>Thu, 11 Jan 2024 00:00:00 +0100</pubDate>
 </item>
+<item>
+<title>test title</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=3384854755&listName=storedesearch</link>
+<author>BlattHandel</author>
+<description>Nach Unmutsbekundungen in der Belegschaft erhöht die Commerzbank den Inflationsbonus für ihre rund 18.000 außertariflich bezahlten Mitarbeiter. Der Vorstand habe „die Auszahlung einer weiteren Inflationsausgleichsprämie beschlossen“, heißt es in einem Beitrag im Commerzbank-Intranet, der dem Handels...</description>
+<comments>This is a Test </comments>
+<pubDate>Thu, 11 Jan 2024 00:00:00 +0100</pubDate>
+</item>
+<item>
+<title>test title 2</title>
+<link>https://www.presse-monitor.de/pmgk2/article_preview.html?id=4384854755&listName=storedesearch</link>
+<author>BlattHandels</author>
+<description>Nach Unmutsbekundungen in der Belegschaft erhöht die Commerzbank den Inflationsbonus für ihre rund 18.000 außertariflich bezahlten Mitarbeiter. Der Vorstand habe „die Auszahlung einer weiteren Inflationsausgleichsprämie beschlossen“, heißt es in einem Beitrag im Commerzbank-Intranet, der dem Handels...</description>
+<category>This is a second Test</category>
+<pubDate>Thu, 11 Jan 2024 00:00:00 +0100</pubDate>
+</item>
 </channel>
 </rss>
